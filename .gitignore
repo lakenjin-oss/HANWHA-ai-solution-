@@ -13,4 +13,3 @@ backend/.packages/
 .pytest_cache/
 *.tar.gz
 *.log
-
